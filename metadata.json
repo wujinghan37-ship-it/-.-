@@ -1,0 +1,7 @@
+{
+  "name": "Mystic Hand Tarot",
+  "description": "An immersive, gesture-controlled Tarot reading experience inspired by Penderecki's Garden. Use hand gestures to shuffle, select, and reveal your destiny.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
